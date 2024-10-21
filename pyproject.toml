@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "ml-intro"
+version = "0.1.0"
+description = "Machine learning for biological data analysis"
+authors = ["Jakob Metzger"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.10"
+numpy = "^2.0.2"
+pandas = "^2.2.3"
+scikit-learn = "^1.5.2"
+torch = "^2.4.1"
+torchvision = "^0.19.1"
+notebook = "^7.2.2"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+llvmlite = "^0.43.0"
+umap-learn = "^0.5.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
