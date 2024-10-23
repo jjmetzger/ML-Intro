@@ -17,7 +17,7 @@ This is probably the easiest option, although option 2 is more reliable.
    
 2. **Create and activate a virtual environment**. If you don't have python installed, you will need to do this first.
    
-		python3 -m venv venv
+		python3.9 -m venv venv
 		source venv/bin/activate
 
 4. **Install the required packages**
