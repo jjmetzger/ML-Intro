@@ -1,6 +1,6 @@
 # Intro to ML for biological data analysis
 
-This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data. If you can, please try to install the repository using one of the methods below. If you don't manage, that's ok - there is also the option to run the notebook online via Binder without installing anything (description at the bottom).
+This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data. Please try to install the repository using one of the methods below. If you've never done this before, you may get stuck along the way. If you don't manage, that's ok - there is also the option to run the notebook online via Binder without installing anything (description at the bottom).
 
 ## Getting Started
 
