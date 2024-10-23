@@ -10,35 +10,35 @@ This is the easiest option if you're not familiar with Python package managers l
 
 1. **Clone the repository** Download the repository to your computer by opening a terminal and running:
 
-   git clone https://github.com/jjmetzger/ML-Intro.git
-   cd ML-Intro
+		git clone https://github.com/jjmetzger/ML-Intro.git
+		cd ML-Intro
    
 2. **Create and activate a virtual environment**. If you don't have python installed, you will need to do this first.
-	python3 -m venv venv
-	source venv/bin/activate
+		python3 -m venv venv
+		source venv/bin/activate
 
 3. **Install the required packages**
-	pip install -r requirements.txt
+		pip install -r requirements.txt
 
 4. **Launch Jupyter Notebook**
-	jupyter notebook ML_intro.ipynb
+		jupyter notebook ML_intro.ipynb
 	
 
 ### Option 2: Install with pyproject.toml (Using Poetry)
 This option is ideal if you're comfortable with using the Poetry package manager.
 
 1. **Clone the repository**
-	git clone https://github.com/jjmetzger/ML-Intro.git
-	cd ML-Intro
+		git clone https://github.com/jjmetzger/ML-Intro.git
+		cd ML-Intro
 
 2. **Install poetry if you haven't done so already.**	
-	curl -sSL https://install.python-poetry.org | python3 -
+		curl -sSL https://install.python-poetry.org | python3 -
 
 3. **Install the project dependencies using Poetry and run**
 In the project folder, run
-	poetry install
-	poetry shell 
-	poetry run jupyter notebook ML_intro.ipynb
+		poetry install
+		poetry shell 
+		poetry run jupyter notebook ML_intro.ipynb
 
 
 ## Launch on Binder.
