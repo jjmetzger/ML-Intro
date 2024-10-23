@@ -4,9 +4,11 @@ This repository contains a Jupyter notebook with two example projects for using 
 
 ## Getting Started
 
+You will need to have to install python 3.9 to make sure all requirements can be installed. 
+
 ### Option 1: Install with `requirements.txt` (Using `pip`)
 
-This is the easiest option if you're not familiar with Python package managers like Poetry.
+This is probably the easiest option, although option 2 is more reliable.
 
 1. **Clone the repository** Download the repository to your computer by opening a terminal and running:
 
@@ -28,7 +30,7 @@ This is the easiest option if you're not familiar with Python package managers l
 	
 
 ### Option 2: Install with pyproject.toml (Using Poetry)
-This option is ideal if you're comfortable with using the Poetry package manager.
+This is the better option, but you will have to install poetry.
 
 1. **Clone the repository**
    
