@@ -1,6 +1,6 @@
 # Intro to ML for biological data analysis for MDC PhD students
 
-This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data. Please try to install the repository using one of the methods below. If you get stuck somewhere and don't manage to install this locally, that's ok - there is also the option to run the notebook online via Binder without installing anything (description at the bottom). During Friday's intro to ML, you will have time to go through the notebook in groups and discuss the questions that are contained in it. 
+This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data. Please try to install the repository using one of the methods below. If you get stuck somewhere and don't manage to install this locally, that's ok - there is also the option to run the notebook online via Binder without installing anything (description at the bottom). During Friday's intro to ML, you will have time to go through the notebook in groups and discuss the questions that are contained in it, so if you have no coding experience, there will be others to help you.
 
 ## Getting Started
 
