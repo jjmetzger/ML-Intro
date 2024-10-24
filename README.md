@@ -1,12 +1,14 @@
-# Intro to ML for biological data analysis
+# Intro to ML for biological data analysis for MDC PhD students
 
-This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data.
+This repository contains a Jupyter notebook with two example projects for using ML for analyzing biological imaging data. Please try to install the repository using one of the methods below. If you get stuck somewhere and don't manage to install this locally, that's ok - there is also the option to run the notebook online via Binder without installing anything (description at the bottom).
 
 ## Getting Started
 
+You will need to have to install python 3.9 to make sure all requirements can be installed. 
+
 ### Option 1: Install with `requirements.txt` (Using `pip`)
 
-This is the easiest option if you're not familiar with Python package managers like Poetry.
+This is probably the easiest option, although option 2 is more reliable.
 
 1. **Clone the repository** Download the repository to your computer by opening a terminal and running:
 
@@ -15,7 +17,7 @@ This is the easiest option if you're not familiar with Python package managers l
    
 2. **Create and activate a virtual environment**. If you don't have python installed, you will need to do this first.
    
-		python3 -m venv venv
+		python3.9 -m venv venv
 		source venv/bin/activate
 
 4. **Install the required packages**
@@ -28,7 +30,7 @@ This is the easiest option if you're not familiar with Python package managers l
 	
 
 ### Option 2: Install with pyproject.toml (Using Poetry)
-This option is ideal if you're comfortable with using the Poetry package manager.
+This is the better option, but you will have to install poetry.
 
 1. **Clone the repository**
    
